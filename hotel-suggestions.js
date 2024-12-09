@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 1,
             name: "Roadside Inn",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "https://imgs.search.brave.com/g6ON1i7WPeTSAkNx3hszhAaUpGqbUuGh8Q6Qqht7Xug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0Lzc1Lzc2Lzg2/LzM2MF9GXzQ3NTc2/ODY3Nl93bXdFVldZ/V05sY3FhTW9qNGto/YjRHRjNGMGY0ZjdU/Ri5qcGc",
             description: "Comfortable and affordable lodging for road trippers.",
             price: 75,
             rating: 3.5,
