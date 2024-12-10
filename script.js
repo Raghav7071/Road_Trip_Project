@@ -4,9 +4,9 @@ document.addEventListener('DOMContentLoaded', function() {
         { name: 'Dehli', description: 'Explore the History of Grand city', image: 'a-photo-of-a-road-trip-to-delhi-the-image-features-tJ_wEodiREi5w9OmtCsoCQ-FsDVZ025RqSMRjFRCE2hYw.jpeg' },
         { name: 'Mumbai', description: 'Discover the wonders of Mumbai streets', image: 'a-photo-of-a-scenic-road-trip-through-mumbai-india-CANW9q50SNa16TK_ZB6E2A-YofYF8Y6QdmKiHptuDTKUA.jpeg' },
         { name: 'Ladhakh', description: 'Experience the vibrant culture of the Big Apple.', image: 'Best-time-to-visit-North-East-India.webp' },
-        { name: 'San Francisco', description: 'Visit the iconic Golden Gate Bridge and explore the city.', image: 'RTC1.jpg' },
-        { name: 'New Orleans', description: 'Immerse yourself in the rich culture and music of New Orleans.', image: 'Seven_Sisters_Road_Trip-India.jpg' },
-        { name: 'Miami', description: 'Enjoy the beautiful beaches and nightlife of Miami.', image: 'IMG_20231219_073558844_HDR01.jpeg' },
+        { name: 'Kerala', description: 'Travelling along the winding roads of Kerala is always worth the sight that awaits you atop the height.', image: 'RTC1.jpg' },
+        { name: 'Assam', description: 'Immerse yourself in the rich culture and music of Assam.', image: 'Seven_Sisters_Road_Trip-India.jpg' },
+        { name: 'Sikkim', description: 'Enjoy the beautiful panoramic view of Sikkim with a vast mountain range covered with lush green forests and white clouds..', image: 'skm.jpeg' },
     ];
 
 
