@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Roadside Inn",
             image: "https://imgs.search.brave.com/g6ON1i7WPeTSAkNx3hszhAaUpGqbUuGh8Q6Qqht7Xug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0Lzc1Lzc2Lzg2/LzM2MF9GXzQ3NTc2/ODY3Nl93bXdFVldZ/V05sY3FhTW9qNGto/YjRHRjNGMGY0ZjdU/Ri5qcGc",
             description: "Comfortable and affordable lodging for road trippers.",
-            price: 75,
+            price: 750,
             rating: 3.5,
             amenities: ["wifi", "parking"],
             priceCategory: "budget"
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Highway Haven Hotel",
             image: "608929476.jpg",
             description: "Modern amenities with easy highway access.",
-            price: 120,
+            price: 1200,
             rating: 4,
             amenities: ["pool", "wifi", "parking"],
             priceCategory: "mid-range"
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Luxury Lanes Resort",
             image: "mvv.webp",
             description: "Indulge in luxury during your road trip adventure.",
-            price: 250,
+            price: 2500,
             rating: 5,
             amenities: ["pool", "wifi", "parking"],
             priceCategory: "luxury"
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Traveler's Rest",
             image: "a4.jpeg",
             description: "Cozy rooms and a friendly atmosphere for weary travelers.",
-            price: 90,
+            price: 900,
             rating: 3.8,
             amenities: ["wifi", "parking"],
             priceCategory: "budget"
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Scenic View Inn",
             image: "sv.webp",
             description: "Enjoy breathtaking views while resting from your journey.",
-            price: 150,
+            price: 1500,
             rating: 4.2,
             amenities: ["pool", "wifi"],
             priceCategory: "mid-range"
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Route 66 Retreat",
             image: "wseoNHVBTXWxy9mSi0iekw.webp",
             description: "Experience the nostalgia of historic Route 66.",
-            price: 110,
+            price: 1100,
             rating: 4.1,
             amenities: ["wifi", "parking"],
             priceCategory: "mid-range"
