@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 2,
             name: "Highway Haven Hotel",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "608929476.jpg",
             description: "Modern amenities with easy highway access.",
-            price: 120,
+            price: "₹&nbsp;5,069",
             rating: 4,
             amenities: ["pool", "wifi", "parking"],
             priceCategory: "mid-range"
