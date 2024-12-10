@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 3,
             name: "Luxury Lanes Resort",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "mvv.webp",
             description: "Indulge in luxury during your road trip adventure.",
             price: 250,
             rating: 5,
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 4,
             name: "Traveler's Rest",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "a4.jpeg",
             description: "Cozy rooms and a friendly atmosphere for weary travelers.",
             price: 90,
             rating: 3.8,
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 5,
             name: "Scenic View Inn",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "sv.webp",
             description: "Enjoy breathtaking views while resting from your journey.",
             price: 150,
             rating: 4.2,
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             id: 6,
             name: "Route 66 Retreat",
-            image: "/placeholder.svg?height=200&width=300",
+            image: "wseoNHVBTXWxy9mSi0iekw.webp",
             description: "Experience the nostalgia of historic Route 66.",
             price: 110,
             rating: 4.1,
