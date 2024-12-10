@@ -23,6 +23,7 @@ body {
 /* Navbar Styles */
 .navbar {
     transition: background-color 0.3s ease;
+    border-radius: 2px;
 }
 
 .navbar-brand i {
@@ -30,7 +31,7 @@ body {
 }
 
 /* Hero Section Styles */
-/* Hero Section Styles */
+
 .hero {
     position: relative;
     height: 100vh;
@@ -155,7 +156,6 @@ body {
     }
 }
 
-/* Responsive styles */
 @media (max-width: 768px) {
     .hero-title {
         font-size: 3rem;
@@ -183,7 +183,7 @@ body {
 
 
 
-/* Card and List Styles */
+
 .card, .list-group-item {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -198,7 +198,7 @@ body {
     object-fit: cover;
 }
 
-/* Testimonial Styles */
+
 .testimonial-card {
     background-color: #fff;
     border-radius: 10px;
@@ -211,7 +211,7 @@ body {
     transform: translateY(-5px);
 }
 
-/* Footer Styles */
+
 .social-icons a {
     font-size: 1.5rem;
     transition: color 0.3s ease;
@@ -221,7 +221,7 @@ body {
     color: #007bff !important;
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     .hero {
         height: 60vh;
